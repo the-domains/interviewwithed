@@ -1,0 +1,14 @@
+layout_spectrum: 0.030412446707487106
+typography_spectrum: 0.45463261543773115
+color:
+  brandStrength: 0.8134814996737987
+  lightness: 0.10748656606301665
+  saturation: 0.1406816840171814
+  rhythmicContrast: 0.3236723898444325
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: interviewwithed
